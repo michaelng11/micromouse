@@ -1,0 +1,28 @@
+# --- Cache and Local UI Settings --- 
+fp-info-cache
+*.kicad_prl
+*-cache.lib
+*-cache.bck
+*.lck
+~*.lck
+
+# --- Backups ---
+*-backups/
+**/*-backups/*.zip
+
+# --- Temporary & Auto-Save Files ---
+*.000
+*.bak
+*.bck
+*-bak
+*-bak*
+*~
+~*
+*.tmp
+_autosave-*
+\#auto_saved_files\#
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.sch-bak
+*-save.pro
+*-save.kicad_pcb
