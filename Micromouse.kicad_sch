@@ -13970,7 +13970,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3S-1000"
+		(property "Footprint" "Button_FSM4JSMA:TE_FSM4JSMA"
 			(at 40.64 163.83 0)
 			(effects
 				(font
@@ -16862,7 +16862,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x06_P1.27mm_Vertical"
 			(at 120.65 78.74 0)
 			(effects
 				(font
@@ -23189,7 +23189,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x06_P1.27mm_Vertical"
 			(at 139.7 76.2 0)
 			(effects
 				(font

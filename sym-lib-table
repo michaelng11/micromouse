@@ -20,4 +20,5 @@
   (lib (name "2.2uF_C2012X7R1H225K125AC")(type "KiCad")(uri "${KIPRJMOD}/libraries/Capacitors/C2012X7R1H225K125AC/C2012X7R1H225K125AC.kicad_sym")(options "")(descr ""))
   (lib (name "1uF_CL21B105KBFNNNE")(type "KiCad")(uri "${KIPRJMOD}/libraries/Capacitors/CL21B105KBFNNNE/CL21B105KBFNNNE.kicad_sym")(options "")(descr ""))
   (lib (name "LED_LTST-C170GKT")(type "KiCad")(uri "${KIPRJMOD}/libraries/LED/LED_LTST-C170GKT/LTST-C170GKT.kicad_sym")(options "")(descr ""))
+  (lib (name "Button_FSM4JSMA")(type "KiCad")(uri "${KIPRJMOD}/libraries/Button/FSM4JSMA.kicad_sym")(options "")(descr ""))
 )
