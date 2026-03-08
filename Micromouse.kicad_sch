@@ -9640,7 +9640,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 96.52) (xy 251.46 96.52)
+			(xy 252.73 96.52) (xy 251.46 96.52)
 		)
 		(stroke
 			(width 0)
@@ -9850,16 +9850,6 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 105.41) (xy 250.19 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1999934f-75c3-4b1e-913f-ae36e76f258c")
-	)
-	(wire
-		(pts
 			(xy 241.3 288.29) (xy 247.65 288.29)
 		)
 		(stroke
@@ -10060,7 +10050,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 157.48) (xy 115.57 154.94)
+			(xy 104.14 161.29) (xy 104.14 158.75)
 		)
 		(stroke
 			(width 0)
@@ -10100,7 +10090,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 99.06) (xy 242.57 99.06)
+			(xy 241.3 99.06) (xy 245.11 99.06)
 		)
 		(stroke
 			(width 0)
@@ -10177,6 +10167,16 @@
 			(type default)
 		)
 		(uuid "3fec67e5-20ac-4fcc-844f-a041a5444636")
+	)
+	(wire
+		(pts
+			(xy 241.3 139.7) (xy 245.11 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40f20c1e-3424-4a5c-b54d-ba3d7bab51d1")
 	)
 	(wire
 		(pts
@@ -10290,16 +10290,6 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 134.62) (xy 242.57 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c06c9e8-15fd-4bb5-a0ae-838e8660dbb9")
-	)
-	(wire
-		(pts
 			(xy 49.53 173.99) (xy 49.53 166.37)
 		)
 		(stroke
@@ -10327,6 +10317,16 @@
 			(type default)
 		)
 		(uuid "4d47c545-b086-400c-a321-790e1991e9ee")
+	)
+	(wire
+		(pts
+			(xy 241.3 134.62) (xy 245.11 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e119bb1-1fbc-4919-af07-2c9aad31546e")
 	)
 	(wire
 		(pts
@@ -10690,7 +10690,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 167.64) (xy 115.57 165.1)
+			(xy 104.14 171.45) (xy 104.14 168.91)
 		)
 		(stroke
 			(width 0)
@@ -10827,16 +10827,6 @@
 			(type default)
 		)
 		(uuid "8c62fade-28f0-444f-93da-ec9359b121dd")
-	)
-	(wire
-		(pts
-			(xy 248.92 105.41) (xy 248.92 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ea17b66-688c-4192-9d51-4cc8e07119d5")
 	)
 	(wire
 		(pts
@@ -11040,16 +11030,6 @@
 	)
 	(wire
 		(pts
-			(xy 273.05 105.41) (xy 273.05 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a0fd7120-0f04-4334-8e42-48eb48068eec")
-	)
-	(wire
-		(pts
 			(xy 231.14 67.31) (xy 232.41 67.31)
 		)
 		(stroke
@@ -11137,16 +11117,6 @@
 			(type default)
 		)
 		(uuid "adec603a-7b95-4322-b22c-a218af95f3da")
-	)
-	(wire
-		(pts
-			(xy 270.51 105.41) (xy 273.05 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aff23e6b-d119-4e93-99e5-5342fc5b1dad")
 	)
 	(wire
 		(pts
@@ -11240,7 +11210,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 96.52) (xy 250.19 99.06)
+			(xy 252.73 96.52) (xy 252.73 99.06)
 		)
 		(stroke
 			(width 0)
@@ -11300,7 +11270,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 187.96) (xy 115.57 189.23)
+			(xy 104.14 191.77) (xy 104.14 193.04)
 		)
 		(stroke
 			(width 0)
@@ -11560,6 +11530,16 @@
 	)
 	(wire
 		(pts
+			(xy 265.43 134.62) (xy 269.24 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da471950-7f5d-4b4e-842a-998e8ae9d63a")
+	)
+	(wire
+		(pts
 			(xy 191.77 161.29) (xy 191.77 162.56)
 		)
 		(stroke
@@ -11727,6 +11707,16 @@
 			(type default)
 		)
 		(uuid "ed4969e9-8b84-4e6d-97d3-9850700f3729")
+	)
+	(wire
+		(pts
+			(xy 275.59 139.7) (xy 273.05 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed6c86f8-f3bd-4702-929c-ccb671ce0101")
 	)
 	(wire
 		(pts
@@ -12116,6 +12106,28 @@
 			)
 		)
 	)
+	(global_label "PB13"
+		(shape input)
+		(at 241.3 162.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "12c0092f-4c1e-4454-862d-130028398c65")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 249.2442 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "PA0"
 		(shape input)
 		(at 241.3 86.36 0)
@@ -12292,6 +12304,28 @@
 			)
 		)
 	)
+	(global_label "PB12"
+		(shape input)
+		(at 241.3 160.02 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "231439dd-80e0-4349-858e-817071cbc8d7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 249.2442 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "PB8"
 		(shape input)
 		(at 241.3 149.86 0)
@@ -12402,6 +12436,28 @@
 			)
 		)
 	)
+	(global_label "PC5"
+		(shape input)
+		(at 205.74 121.92 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2b86bd46-36e1-4c32-be50-adb7d4212c8b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 199.0053 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "MR2"
 		(shape input)
 		(at 101.6 54.61 0)
@@ -12426,7 +12482,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 262.89 134.62 0)
+		(at 269.24 134.62 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12436,7 +12492,7 @@
 		)
 		(uuid "31c3675f-fcc5-40fe-8916-57fa9a2fc6e9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 269.7457 134.62 0)
+			(at 276.0957 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12646,7 +12702,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 115.57 189.23 270)
+		(at 104.14 193.04 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12656,7 +12712,7 @@
 		)
 		(uuid "4d7467a1-e0a0-4744-9b40-794df17ab7e0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 115.57 196.0857 90)
+			(at 104.14 199.8957 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12684,6 +12740,50 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PA7"
+		(shape input)
+		(at 241.3 104.14 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "50de38bd-1819-4d34-b89a-eae125125157")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 247.8533 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PC9"
+		(shape input)
+		(at 205.74 132.08 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5247978a-f363-44af-bbd0-3a353f18cf61")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 199.0053 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -12756,7 +12856,7 @@
 	)
 	(global_label "3V3"
 		(shape input)
-		(at 115.57 154.94 90)
+		(at 104.14 158.75 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12766,7 +12866,7 @@
 		)
 		(uuid "5aa20349-c9b2-49f6-b3e1-2acb76783684")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 115.57 148.4472 90)
+			(at 104.14 152.2572 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12910,7 +13010,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 95.25 163.83 0)
+		(at 83.82 167.64 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12920,7 +13020,7 @@
 		)
 		(uuid "6d2c2b79-c72e-4d82-9989-4247affcd079")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 102.1057 163.83 0)
+			(at 90.6757 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12948,6 +13048,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PA6"
+		(shape input)
+		(at 241.3 101.6 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6f61a1c8-1a8c-4a4a-8516-d2871db35dd8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 247.8533 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -13326,6 +13448,28 @@
 			)
 		)
 	)
+	(global_label "PC4"
+		(shape input)
+		(at 205.74 119.38 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a0b1a266-9bdb-4824-ae5c-98a2642ff955")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 199.0053 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GND"
 		(shape input)
 		(at 109.22 106.68 90)
@@ -13348,7 +13492,7 @@
 			)
 		)
 	)
-	(global_label "PB2"
+	(global_label "PB12"
 		(shape input)
 		(at 344.17 213.36 180)
 		(fields_autoplaced yes)
@@ -13360,7 +13504,7 @@
 		)
 		(uuid "a9b6777d-a027-4cb8-873e-99c16e5b3b15")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 337.4353 213.36 0)
+			(at 336.2258 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13394,7 +13538,7 @@
 	)
 	(global_label "SWCLK"
 		(shape input)
-		(at 95.25 166.37 0)
+		(at 83.82 170.18 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13404,7 +13548,7 @@
 		)
 		(uuid "afe0931e-470d-4a3b-8002-db8c72e29d7f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 104.4642 166.37 0)
+			(at 93.0342 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13614,7 +13758,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 273.05 101.6 0)
+		(at 275.59 139.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13624,7 +13768,7 @@
 		)
 		(uuid "c69de7d9-4bd2-48c9-a2a6-79b658cd1c77")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 279.9057 101.6 0)
+			(at 282.4457 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13702,7 +13846,7 @@
 	)
 	(global_label "SWDIO"
 		(shape input)
-		(at 95.25 161.29 0)
+		(at 83.82 165.1 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13712,7 +13856,7 @@
 		)
 		(uuid "d993a909-5c53-4c2a-a18d-fab0e4890831")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 104.1014 161.29 0)
+			(at 92.6714 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13854,6 +13998,28 @@
 			)
 		)
 	)
+	(global_label "PB1"
+		(shape input)
+		(at 241.3 132.08 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e4e68690-2a1a-4bdd-86ce-9a21dd622907")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 248.0347 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "3V3"
 		(shape input)
 		(at 114.3 118.11 0)
@@ -13944,7 +14110,7 @@
 	)
 	(global_label "NSRT"
 		(shape input)
-		(at 95.25 158.75 0)
+		(at 83.82 162.56 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13954,7 +14120,7 @@
 		)
 		(uuid "fb210069-c387-4095-af4c-acfaf6531a25")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 103.0128 158.75 0)
+			(at 91.5828 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15776,7 +15942,7 @@
 	)
 	(symbol
 		(lib_id "10kohm_RC0805JR-0710KL:RC0805JR-0710KL")
-		(at 252.73 134.62 0)
+		(at 255.27 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15785,7 +15951,7 @@
 		(fields_autoplaced yes)
 		(uuid "29307664-ee87-4c12-9dc3-a25704d9c291")
 		(property "Reference" "R1"
-			(at 252.73 128.27 0)
+			(at 255.27 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15793,7 +15959,7 @@
 			)
 		)
 		(property "Value" "10 kOhm"
-			(at 252.73 130.81 0)
+			(at 255.27 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15801,7 +15967,7 @@
 			)
 		)
 		(property "Footprint" "10kohm_RC0805JR-0710KL:RESC2012X60N"
-			(at 252.73 134.62 0)
+			(at 255.27 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15811,7 +15977,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 252.73 134.62 0)
+			(at 255.27 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15820,7 +15986,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 252.73 134.62 0)
+			(at 255.27 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15829,7 +15995,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "311-10KARCT-ND"
-			(at 252.73 134.62 0)
+			(at 255.27 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15839,7 +16005,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RC0805JR-0710KL/Yageo/view-part/?ref=snap"
-			(at 252.73 134.62 0)
+			(at 255.27 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15849,7 +16015,7 @@
 			)
 		)
 		(property "Description_1" "10 kOhms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
-			(at 252.73 134.62 0)
+			(at 255.27 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15859,7 +16025,7 @@
 			)
 		)
 		(property "MF" "Yageo"
-			(at 252.73 134.62 0)
+			(at 255.27 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15869,7 +16035,7 @@
 			)
 		)
 		(property "Package" "2012 Yageo"
-			(at 252.73 134.62 0)
+			(at 255.27 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15879,7 +16045,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/RC0805JR-0710KL/Yageo/view-part/?ref=eda"
-			(at 252.73 134.62 0)
+			(at 255.27 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15889,7 +16055,7 @@
 			)
 		)
 		(property "MP" "RC0805JR-0710KL"
-			(at 252.73 134.62 0)
+			(at 255.27 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15915,16 +16081,15 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 245.11 101.6 0)
+		(at 248.92 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2c77b78f-4f60-4b45-8fc5-a08ede52d550")
 		(property "Reference" "D3"
-			(at 243.5225 95.25 0)
+			(at 246.126 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15932,7 +16097,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 243.5225 97.79 0)
+			(at 249.428 136.906 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15940,7 +16105,7 @@
 			)
 		)
 		(property "Footprint" "LED_LTST-C170GKT:LTST-C170GKT"
-			(at 245.11 101.6 0)
+			(at 248.92 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15949,7 +16114,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 245.11 101.6 0)
+			(at 248.92 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15958,7 +16123,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 245.11 101.6 0)
+			(at 248.92 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15967,7 +16132,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 245.11 101.6 0)
+			(at 248.92 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16526,7 +16691,7 @@
 	)
 	(symbol
 		(lib_id "200ohm_ERJP06F2000V:ERJP06F2000V")
-		(at 115.57 177.8 90)
+		(at 104.14 181.61 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16535,7 +16700,7 @@
 		(fields_autoplaced yes)
 		(uuid "3f4dbbbf-582a-4a07-9171-76e0923c5ee7")
 		(property "Reference" "R2"
-			(at 119.38 176.5299 90)
+			(at 107.95 180.3399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16544,7 +16709,7 @@
 			)
 		)
 		(property "Value" "200 ohm"
-			(at 119.38 179.0699 90)
+			(at 107.95 182.8799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16553,7 +16718,7 @@
 			)
 		)
 		(property "Footprint" "200ohm_ERJP06F2000V:RES_ERJP06F2000V"
-			(at 115.57 177.8 0)
+			(at 104.14 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16563,7 +16728,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 177.8 0)
+			(at 104.14 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16572,7 +16737,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 115.57 177.8 0)
+			(at 104.14 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16581,7 +16746,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "P16064CT-ND"
-			(at 115.57 177.8 0)
+			(at 104.14 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16591,7 +16756,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ERJ-P06F2000V/Panasonic/view-part/?ref=snap"
-			(at 115.57 177.8 0)
+			(at 104.14 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16601,7 +16766,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.6 mm"
-			(at 115.57 177.8 0)
+			(at 104.14 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16611,7 +16776,7 @@
 			)
 		)
 		(property "Package" "2012-2 Panasonic"
-			(at 115.57 177.8 0)
+			(at 104.14 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16621,7 +16786,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/ERJ-P06F2000V/Panasonic/view-part/?ref=eda"
-			(at 115.57 177.8 0)
+			(at 104.14 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16631,7 +16796,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 115.57 177.8 0)
+			(at 104.14 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16641,7 +16806,7 @@
 			)
 		)
 		(property "PARTREV" "3/1/2020"
-			(at 115.57 177.8 0)
+			(at 104.14 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16651,7 +16816,7 @@
 			)
 		)
 		(property "MF" "Panasonic"
-			(at 115.57 177.8 0)
+			(at 104.14 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16661,7 +16826,7 @@
 			)
 		)
 		(property "MP" "ERJ-P06F2000V"
-			(at 115.57 177.8 0)
+			(at 104.14 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16671,7 +16836,7 @@
 			)
 		)
 		(property "Description_1" "200 Ohms ±1% 0.5W, 1/2W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film"
-			(at 115.57 177.8 0)
+			(at 104.14 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16681,7 +16846,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Panasonic"
-			(at 115.57 177.8 0)
+			(at 104.14 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18829,7 +18994,7 @@
 	)
 	(symbol
 		(lib_id "200ohm_ERJP06F2000V:ERJP06F2000V")
-		(at 260.35 105.41 0)
+		(at 262.89 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18838,7 +19003,7 @@
 		(fields_autoplaced yes)
 		(uuid "650b9fe8-5b2e-46ce-8283-71bae7b0c3c0")
 		(property "Reference" "R23"
-			(at 260.35 99.06 0)
+			(at 262.89 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18846,7 +19011,7 @@
 			)
 		)
 		(property "Value" "200 Ohm"
-			(at 260.35 101.6 0)
+			(at 262.89 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18854,7 +19019,7 @@
 			)
 		)
 		(property "Footprint" "200ohm_ERJP06F2000V:RES_ERJP06F2000V"
-			(at 260.35 105.41 0)
+			(at 262.89 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18864,7 +19029,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 260.35 105.41 0)
+			(at 262.89 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18873,7 +19038,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 260.35 105.41 0)
+			(at 262.89 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18882,7 +19047,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "P16064CT-ND"
-			(at 260.35 105.41 0)
+			(at 262.89 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18892,7 +19057,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ERJ-P06F2000V/Panasonic/view-part/?ref=snap"
-			(at 260.35 105.41 0)
+			(at 262.89 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18902,7 +19067,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.6 mm"
-			(at 260.35 105.41 0)
+			(at 262.89 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18912,7 +19077,7 @@
 			)
 		)
 		(property "Package" "2012-2 Panasonic"
-			(at 260.35 105.41 0)
+			(at 262.89 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18922,7 +19087,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/ERJ-P06F2000V/Panasonic/view-part/?ref=eda"
-			(at 260.35 105.41 0)
+			(at 262.89 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18932,7 +19097,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 260.35 105.41 0)
+			(at 262.89 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18942,7 +19107,7 @@
 			)
 		)
 		(property "PARTREV" "3/1/2020"
-			(at 260.35 105.41 0)
+			(at 262.89 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18952,7 +19117,7 @@
 			)
 		)
 		(property "MF" "Panasonic"
-			(at 260.35 105.41 0)
+			(at 262.89 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18962,7 +19127,7 @@
 			)
 		)
 		(property "MP" "ERJ-P06F2000V"
-			(at 260.35 105.41 0)
+			(at 262.89 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18972,7 +19137,7 @@
 			)
 		)
 		(property "Description_1" "200 Ohms ±1% 0.5W, 1/2W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film"
-			(at 260.35 105.41 0)
+			(at 262.89 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18982,7 +19147,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Panasonic"
-			(at 260.35 105.41 0)
+			(at 262.89 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22466,7 +22631,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 115.57 161.29 270)
+		(at 104.14 165.1 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22475,7 +22640,7 @@
 		(fields_autoplaced yes)
 		(uuid "ce2cb217-1aff-4b16-9f69-95d87783c933")
 		(property "Reference" "D1"
-			(at 118.11 158.4324 90)
+			(at 106.68 162.2424 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22484,7 +22649,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 118.11 160.9724 90)
+			(at 106.68 164.7824 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22493,7 +22658,7 @@
 			)
 		)
 		(property "Footprint" "LED_LTST-C170GKT:LTST-C170GKT"
-			(at 115.57 161.29 0)
+			(at 104.14 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22502,7 +22667,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 115.57 161.29 0)
+			(at 104.14 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22511,7 +22676,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 115.57 161.29 0)
+			(at 104.14 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22520,7 +22685,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 115.57 161.29 0)
+			(at 104.14 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25496,7 +25661,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 246.38 99.06 0)
+		(at 248.92 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25505,7 +25670,7 @@
 		(fields_autoplaced yes)
 		(uuid "ed1710ea-cb80-476c-93a0-933496e62dcd")
 		(property "Reference" "D2"
-			(at 244.7925 92.71 0)
+			(at 247.3325 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25513,7 +25678,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 244.7925 95.25 0)
+			(at 247.3325 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25521,7 +25686,7 @@
 			)
 		)
 		(property "Footprint" "LED_LTST-C170GKT:LTST-C170GKT"
-			(at 246.38 99.06 0)
+			(at 248.92 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25530,7 +25695,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 246.38 99.06 0)
+			(at 248.92 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25539,7 +25704,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 246.38 99.06 0)
+			(at 248.92 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25548,7 +25713,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 246.38 99.06 0)
+			(at 248.92 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25714,7 +25879,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 90.17 161.29 0)
+		(at 78.74 165.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25723,7 +25888,7 @@
 		(fields_autoplaced yes)
 		(uuid "f18050a7-cce6-4d34-abda-b89afeab2afd")
 		(property "Reference" "J6"
-			(at 90.805 153.67 0)
+			(at 79.375 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25731,7 +25896,7 @@
 			)
 		)
 		(property "Value" "STLink Connector"
-			(at 90.805 156.21 0)
+			(at 79.375 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25739,7 +25904,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
-			(at 90.17 161.29 0)
+			(at 78.74 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25748,7 +25913,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 90.17 161.29 0)
+			(at 78.74 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25757,7 +25922,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 90.17 161.29 0)
+			(at 78.74 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
