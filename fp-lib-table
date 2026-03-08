@@ -21,4 +21,5 @@
   (lib (name "1uF_CL21B105KBFNNNE")(type "KiCad")(uri "${KIPRJMOD}/libraries/Capacitors/CL21B105KBFNNNE")(options "")(descr ""))
   (lib (name "LED_LTST-C170GKT")(type "KiCad")(uri "${KIPRJMOD}/libraries/LED/LED_LTST-C170GKT")(options "")(descr ""))
   (lib (name "Button_FSM4JSMA")(type "KiCad")(uri "${KIPRJMOD}/libraries/Button")(options "")(descr ""))
+  (lib (name "Pololu_Motor")(type "KiCad")(uri "${KIPRJMOD}/libraries/Pololu_Motor")(options "")(descr ""))
 )
